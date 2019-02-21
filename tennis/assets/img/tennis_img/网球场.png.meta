@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "282e4a54-3e27-44e7-b98c-f817d8b7cafc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "网球场": {
+      "ver": "1.0.3",
+      "uuid": "f18bb3dc-0c10-4b27-8647-1db8ff7d198e",
+      "rawTextureUuid": "282e4a54-3e27-44e7-b98c-f817d8b7cafc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 375,
+      "height": 667,
+      "rawWidth": 375,
+      "rawHeight": 667,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

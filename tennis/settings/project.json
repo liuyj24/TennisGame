@@ -1,0 +1,111 @@
+{
+  "collision-matrix": [
+    [
+      true,
+      null,
+      false
+    ],
+    [
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      true,
+      false,
+      false,
+      true,
+      null,
+      null,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  ],
+  "design-resolution-height": 667,
+  "design-resolution-width": 375,
+  "excluded-modules": [
+    "Dynamic Atlas",
+    "Mask",
+    "TiledMap",
+    "Spine Skeleton",
+    "DragonBones",
+    "RichText",
+    "MotionStreak",
+    "VideoPlayer",
+    "WebView",
+    "StudioComponent"
+  ],
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "fit-height": true,
+  "fit-width": false,
+  "group-list": [
+    "deafult",
+    "boundary",
+    "ball",
+    "racket",
+    "sideEdge",
+    "hero",
+    "pipe",
+    "socreItem"
+  ],
+  "last-module-event-record-time": 1549553505867,
+  "simulator-orientation": false,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "start-scene": "current",
+  "use-customize-simulator": false,
+  "use-project-simulator-setting": false
+}
